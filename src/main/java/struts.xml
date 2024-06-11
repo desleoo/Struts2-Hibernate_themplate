@@ -11,7 +11,7 @@
 		
 			<action name="Homepage">
 			
-				<result>/public/homepage.jsp</result>
+				<result>/WEB-INF/public/homepage.jsp</result>
 				
 			</action>
 			
